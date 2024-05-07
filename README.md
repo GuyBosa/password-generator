@@ -1,4 +1,6 @@
 # React Assessment - 	password-generator-take-home
+### Screenshot
+![screencapture-localhost-3000-2024-05-07-19_40_47](https://github.com/GuyBosa/password-generator/assets/40579537/c254093d-2964-4674-9063-8d6fa9cff43a)
 
 ### SPA Built with
 - Semantic HTML5 markup
@@ -14,8 +16,6 @@
 - See a strength rating for their generated password
 - Responsive design for optimal layout with regards to the interface/device's screen size
 - See hover and focus states for all interactive elements on the page
-
-### Screenshot
 
 ## Git
 Make sure you have [Git] installed on your PC. See https://git-scm.com/downloads for help. 
